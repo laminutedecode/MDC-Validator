@@ -148,14 +148,6 @@ Les messages d'erreur par défaut sont en français. Voici les messages standard
 - Max: "La valeur maximale est {max}"
 - Pattern: "La valeur ne correspond pas au format requis"
 
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou une pull request.
-
-## Licence
-
-MIT
-
 ## Fonctionnalités avancées
 
 ### Nommage explicite des champs
@@ -210,3 +202,12 @@ const schema = new MDCValidator()
   .isIn(['option1', 'option2']) // Doit être l'une de ces valeurs
   .notIn(['interdit1', 'interdit2']); // Ne doit pas être l'une de ces valeurs
 ```
+
+## Contribution
+
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou une pull request.
+
+## Licence
+
+MIT
+
